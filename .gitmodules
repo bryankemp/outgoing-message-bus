@@ -1,0 +1,3 @@
+[submodule "gvsms"]
+	path = gvsms
+	url = https://github.com/lachesis/gvsms.git
